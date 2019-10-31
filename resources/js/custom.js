@@ -47,7 +47,6 @@ function typeWriter(text, target, start_time, delay){
 // TOGGLE VISABILITY FUNCTIONS
 function toggleProjects(){
     var type = $(this).data("project-button");
-    console.log(type);
     if(type == 'all'){
         $('[data-project]').show("slow");
     }else if(type == 'school'){

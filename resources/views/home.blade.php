@@ -46,14 +46,14 @@
                 <div class="row">
                     <div class="col sm-12 pt-3 pb-3 intro">
                         <span class="capital">W</span>elcome to my portfolio. My name is Wouter Dolk, I am a fourth year (graduate) software engineering student at Rotterdam University.
-                        My interests lie in building software/websites and editing videos. I also have a passion for videogames, especially arcade style games.<br/>
+                        My interests lie in building software, building websites and editing videos. I also have a passion for videogames, especially arcade style games.<br/>
                         <br/>
                         In the past three and a half years of my study I have learned to work with languages such as Python, C# and Java.
-                        During the last two semesters of my third year I have followed the Minor Security Labs. During this Minor I have learned to work with OS Kali Linux and tools such a metasploit.
+                        During the last two semesters of my third year I have followed the minor Security Labs. During this minor I have learned to work with OS Kali Linux and tools such a Metasploit.
                         It also made me more aware of security risks to keep in mind when writing software.<br/>
                         <br/>
                         At the moment I am following the minor Data Sience. During this minor I am working with R and Rstudio and will experiment with topics such as
-                        machine learning. 
+                        machine learning. For my graduation, I am still actively looking for a fitting intership where I can construct me thesis and conclude my scholarship.
                     </div>
                 </div>
             </section>
@@ -244,7 +244,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="https://github.com/OlafvdGraaf/chainBlock" target="_blank" class="col-12 col-md-6 col-lg-4 py-3 no-link-decoration" data-project="school">
+                    <a href="https://github.com/OlafvdGraaf/chainBlock/tree/NewConcept" target="_blank" class="col-12 col-md-6 col-lg-4 py-3 no-link-decoration" data-project="school">
                         <div class="card portfolio-item h-100">
                             <div class="portfolio-item-image chainblock img-fluid"></div>
                             <div class="card-body portfolio-item-body chainblock">
@@ -322,7 +322,7 @@
                                 <i class="fab fa-github icon"></i> <a class="" href="https://github.com/woutar" target="_blank">School Github</a><span class="spacer">|</span><a class="" href="https://github.com/TheDolk" target="_blank">Personal Github</a>
                             </div>
                             <div class="col-10 pt-2 pb-2 contact-button">
-                                <i class="fas fa-envelope icon"></i> <a class="" href="mailto:0934955@hr.nl">Send me an email</a>
+                                <i class="fas fa-envelope icon"></i> <a class="" href="mailto:wouterdolk@live.nl">Send me an email</a>
                             </div>
                         </div>
                     </div>
@@ -332,7 +332,7 @@
 
         <footer class="footer">
             <a class="footer-item" href="https://www.linkedin.com/in/wouter-dolk-b89ab8153/" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a class="footer-item" href="mailto:0934955@hr.nl"><i class="fas fa-envelope"></i></a>
+            <a class="footer-item" href="mailto:wouterdolk@live.nl"><i class="fas fa-envelope"></i></a>
         </footer>
 
         <script src="{{ asset('js/app.js')}}"></script>
